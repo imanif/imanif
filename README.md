@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer graphics, game design, and information visualization.
 - 🌱 I’m currently learning computational mathematics.
 - 💞️ I’m looking to collaborate on projects that will give me the opportunity to learn how analyze and visual the world around me.
-- 📫 How to reach me: linkedin.com/in/imanifinkley 
 
 <!---
 imanif/imanif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
