@@ -1,6 +1,6 @@
 👋 Hi, I’m Imani!
 
-🎓 I'm graduating from Cornell University with a BA with Honors in English Literature and a minor in Computer Science.
+🎓 I study computer science and English literature at Cornell University.
 
 👀 I’m interested in applied natural language processing and machine learning for digital humanities research.
 
