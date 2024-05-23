@@ -1,6 +1,6 @@
 👋 Hi, I’m Imani!
 
-🎓 I study computer science and English literature at Cornell University.
+🎓 I am getting my Master's in AI & Language at the University of Chicago.
 
 👀 I’m interested in applied natural language processing and machine learning for digital humanities research.
 
