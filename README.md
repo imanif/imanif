@@ -1,6 +1,6 @@
 👋 Hi, I’m Imani!
 
-🎓 I am getting my Master's in AI & Language at the University of Chicago.
+🎓 I starting my Master's in AI & Language at the University of Chicago in fall!
 
 👀 I’m interested in applied natural language processing and machine learning for digital humanities research.
 
