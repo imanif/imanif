@@ -1,12 +1,10 @@
 👋 Hi, I’m Imani!
 
-🎓 I just graduated from Cornell University!
+🖥️ I'm a computational linguistics research fellow at the University of Maryland!
 
-👀 I’m interested in applied natural language processing and machine learning for digital humanities research.
+👀 I’m interested in applied natural language processing and machine learning to annalyze the intersection of AI, media, and society.
 
-🌱 I’m currently researching the effects and possibilities of generative AI media (look at ByAI repository).
-
-💞️ I’m looking to collaborate on projects that will allow me to learn how to analyze the intersection of AI and society.
+🌱 I’m currently researching prompt optimization for long-form text generation and LLM evaluation.
 
 
 <!---
