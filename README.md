@@ -1,10 +1,10 @@
 👋 Hi, I’m Imani!
 
-🖥️ I'm a computational linguistics research fellow at the University of Maryland!
+🖥️  I'm a computational linguistics research fellow at the University of Maryland!
 
-👀 I’m interested in applied natural language processing and machine learning to annalyze the intersection of AI, media, and society.
+👀  I’m interested in applied natural language processing and machine learning to analyze the intersection of AI, media, and society.
 
-🌱 I’m currently researching prompt optimization for long-form text generation and LLM evaluation.
+🌱  I’m currently researching prompt optimization for long-form text generation and LLM evaluation.
 
 
 <!---
